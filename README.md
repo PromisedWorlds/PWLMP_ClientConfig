@@ -1,5 +1,5 @@
-# PWLMP_Modpack
-This repository contains some client configuration for the Promised Worlds Luna Multiplayer server. This will be listed on CKAN with the mod list as dependencies, allowing users to download all of the required mods easily.
+# PWLMP_ClientConfig
+This repository contains some client configuration for the Promised Worlds Luna Multiplayer server. This ensures that users have a consistent experience and helps alleviate multiplayer issues.
 
 ## Patches
 This mod disables Parallax collision, since different collision settings can cause conflicts between users on a multiplayer server.
