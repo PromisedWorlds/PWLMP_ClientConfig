@@ -1,6 +1,8 @@
 # PWLMP_ClientConfig
 This repository contains some client configuration for the Promised Worlds Luna Multiplayer server. This ensures that users have a consistent experience and helps alleviate multiplayer issues.
 
+To join our Luna Multiplayer server please come to our Discord: https://discord.com/invite/cuY2Hx2emM
+
 ## Patches
 This mod disables Parallax collision, since different collision settings can cause conflicts between users on a multiplayer server.
 
